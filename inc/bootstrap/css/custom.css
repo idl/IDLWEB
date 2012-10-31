@@ -69,6 +69,12 @@
       margin-right: 10px;
     }
 
+    .marketing-img {
+    	
+    	max-height: 200px;
+    	min-height: 200px
+    }
+
 	/* Mast head ajustment */
 
 
